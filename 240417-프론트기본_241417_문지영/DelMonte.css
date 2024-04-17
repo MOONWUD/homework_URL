@@ -1,4 +1,5 @@
 @charset "UTF-8";
+
 /* 
 좁은 여백 양 옆 15px
 넓은 여백 양 옆 50px
@@ -91,7 +92,7 @@ header img {
 /***** content2 *****/
 .content2 {
   padding-bottom: 50px;
-  margin-botton: 130px;
+  margin-bottom: 130px;
   background-color: #FFFBE7;
 }
 
